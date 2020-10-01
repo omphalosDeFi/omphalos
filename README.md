@@ -2,9 +2,9 @@
 
 [![Build Status](https://travis-ci.com/omphalosDeFi/omphalos.svg?branch=master)](https://travis-ci.com/omphalosDeFi/omphalos.svg?branch=master)&nbsp;&nbsp;[![Coverage Status](https://coveralls.io/repos/github/frgprotocol/omphalos/badge.svg?branch=master&t=GiWi8p)](https://coveralls.io/github/frgprotocol/omphalos?branch=master)
 
-Omphalos is a decentralized elastic supply protocol. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read the [whitepaper](http://omphalos.cc/) for the motivation and a complete description of the protocol.
+Omphalos is a decentralized elastic supply protocol. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read the [whitepaper](https://omphalos.co/wp-content/uploads/2020/09/Omphalos_lightpaper_9212020_v1.0.pdf) for the motivation and a complete description of the protocol.
 
-This repository is a collection of [smart contracts](http://omphalos.cc/) that implement the Omphalos protocol on the Ethereum blockchain.
+This repository is a collection of [smart contracts](http://omphalos.co/) that implement the Omphalos protocol on the Ethereum blockchain.
 
 ## Table of Contents
 
@@ -42,8 +42,8 @@ npx truffle --network ganacheUnitTest test test/unit/omphalos.js
 
 ## Contribute
 
-To report bugs within this package, create an issue in this repository.
-For security issues, please contact omphalos2020@gmail.com.
+To report bugs within this package, create an issue in this reposito
+For security issues, please contact hello@omphalos.co.
 When submitting code ensure that it is free of lint errors and has 100% test coverage.
 
 ``` bash
