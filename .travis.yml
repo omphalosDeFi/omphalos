@@ -19,5 +19,5 @@ after_success:
   - cat coverage/lcov.info | npx coveralls
 notifications:
   email:
-    - omphalos2020@gmail.com
+    - hello@omphalos.co
   slack: fragmentsorg:2bN0L0FCZZ0illBRyPucRZkV
