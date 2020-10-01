@@ -16,7 +16,7 @@
     "url": "git+https://github.com/omphalosDeFi/omphalos.git"
   },
   "license": "ISC",
-  "author": "omphalos2020@gmail.com",
+  "author": "hello@omphalos.co",
   "scripts": {
     "precommit": "./scripts/pre-commit.sh",
     "coverage": "npx frg-coverage",
