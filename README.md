@@ -42,7 +42,7 @@ npx truffle --network ganacheUnitTest test test/unit/omphalos.js
 
 ## Contribute
 
-To report bugs within this package, create an issue in this reposito
+To report bugs within this package, create an issue in this repository.
 For security issues, please contact hello@omphalos.co.
 When submitting code ensure that it is free of lint errors and has 100% test coverage.
 
